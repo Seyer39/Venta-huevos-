@@ -6,7 +6,7 @@
     <title>Venta de Huevos - Quinta Región</title>
 </head>
 <body>
-
+<%>
 <header>
     <h1>Venta de Huevos en la Quinta Región</h1>
     <p>Los mejores precios del mercado.</p>
